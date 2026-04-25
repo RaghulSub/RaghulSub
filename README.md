@@ -9,7 +9,6 @@ I build scalable web applications and enjoy solving algorithmic challenges. Curr
 - **Technologies:** Next.js, Node.js, PostgreSQL, Docker, AWS 
 
 ### Links
-- [GitHub](https://github.com/RaghulSub)
 - [LinkedIn](https://www.linkedin.com/in/raghulsubramanian/)
-- [Competitive Programming](https://leetcode.com/RaghulSub) (LeetCode / Codeforces)
+- [Competitive Programming](https://leetcode.com/RaghulSub)
 - [Email](mailto:raghulsubramanian10@gmail.com)
